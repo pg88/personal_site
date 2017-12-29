@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/pg88/personal_site/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/pg88/my-stack)
+
 
 ### Markdown
 
@@ -28,8 +28,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-#### Stuff I have fun with :D
-[Stuff](<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/b8add32a3adbc29ab412258062649f"/></a>    <script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>)
+#### Stuff I have fun with :grimacing:
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/pg88/my-stack)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
