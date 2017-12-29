@@ -28,6 +28,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+#### Stuff I have fun with :D
+    <a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/b8add32a3adbc29ab412258062649f"/></a>    <script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
